@@ -1,0 +1,25 @@
+/* Estilos para o jogo da forca (personalize como desejar) */
+
+body {
+    font-family: sans-serif;
+}
+
+#palavra-secreta, #letras-erradas {
+    font-size: 24px;
+}
+
+#boneco {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+}
+
+/* Estilos para os estados do boneco (partes do corpo, etc.) */
+
+#chute {
+    margin-top: 20px;
+}
+
+#mensagens {
+    font-size: 18px;
+}
